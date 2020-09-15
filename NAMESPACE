@@ -1,0 +1,5 @@
+S3method("print", "pdf_document")
+import("rJava")
+import("checkmate")
+export("read_chars")
+export("read_text")
